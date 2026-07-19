@@ -1,0 +1,4 @@
+# day02-mistake-restore
+
+ 
+this project is used to practice git mistakes and restore commands
