@@ -1,0 +1,4 @@
+# ignore temporary and secret files
+*.log
+secret-*.txt
+temp/
